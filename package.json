@@ -1,4 +1,8 @@
 {
+  "homepage": "/",
+  "author": "",
+  "license": "ISC",
+  "description": "",
   "name": "lyricfinder",
   "version": "0.1.0",
   "private": false,
